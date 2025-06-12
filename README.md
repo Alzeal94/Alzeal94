@@ -49,8 +49,8 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 Durante mis prácticas, he tenido la oportunidad de sumergirme en el desarrollo de proyectos reales:
 
--   **Desarrollo Web:** Creación y mantenimiento de una web completa utilizando **PHP** y **SQL**.
--   **Aplicación Full-Stack:** Participación en el diseño y desarrollo de una app para gestionar cursos de robótica, implementando el frontend con **React** y el backend con **Python**.
+-   **Desarrollo Web:** Creación y mantenimiento de una web completa utilizando **JavaScript**, **HTML** y **CSS**.
+-   **Aplicación Full-Stack:** Participación en el diseño y desarrollo de una app web para gestionar incidencias, implementando el frontend con **JavaScript** y el backend con **Node.js**.
 
 ---
 
@@ -68,7 +68,7 @@ Además de la programación, me apasionan otras áreas de la tecnología:
 ¡Siempre estoy abierto a conectar con otros entusiastas de la tecnología y a colaborar en proyectos interesantes!
 
 <p align="left">
- <a href="https://linkedin.com/in/raúl-vidal-vallés-515a7636a" target="_blank">
+ <a href="www.linkedin.com/in/ali-zegaa-alos-217135ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
